@@ -1,0 +1,11 @@
+<view class="card" >
+  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
+  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+
+  <view class="info">
+    <view class="name">Next学院</view>
+    <view class="desc">专注高质量 IT 课程</view>
+    <view>13234sfsdf</view>
+    <view>next_academy@tencent.com</view>
+  </view>
+</view>
